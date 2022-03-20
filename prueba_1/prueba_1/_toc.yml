@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Intro_Tensores_II
+- file: optimizacion_sgd
+- file: Prob_Conceptos_Basicos
+- file: Prob_Variables_Aleatorias
+- file: ti_Teoria_Informacion
